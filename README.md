@@ -1,5 +1,7 @@
+
 <p align="center">
-  <img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="MasterHead"/>
+  <img src="https://github.com/tannasahil11/tannasahil11/assets/154566446/ebb45b6f-a38d-4edf-9fa7-eacc68d4b538" height="180px" width="90%" alt="Mastermind, Pixel Jeff">
+
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Tanna</h1>
