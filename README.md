@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Digital_rain_banner.gif/798px-Digital_rain_banner.gif?20180717110226" alt="MasterHead"/>
+  <img src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="MasterHead"/>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Tanna</h1>
